@@ -896,7 +896,7 @@ right: -15px;
     border: 1px solid var(--main-color);
     width: fit-content;
     margin: 30px auto;
-    color:black;
+color: black;
 }
 .pricing .contact-text{
     text-align: center;
